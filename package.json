@@ -1,0 +1,12 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8",
+    "dotenv": "^5.0.1"
+  },
+}
