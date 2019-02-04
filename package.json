@@ -8,5 +8,5 @@
   "devDependencies": {
     "vuepress": "^0.14.8",
     "dotenv": "^5.0.1"
-  },
+  }
 }
