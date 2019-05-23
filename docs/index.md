@@ -19,7 +19,8 @@ title: Aleksandar's CV
   Laravel**
 
 > **JavaScript, ES6 <br/>
-  Vue.js, Vuex**
+  Vue.js, Vuex** <br/>
+  React.js, Redux, Flux
 
 > **HTML5 <br/>
   CSS3**
