@@ -68,4 +68,4 @@ title: Aleksandar's CV
 
 <h2> Work Experience </h2>
 
->Extraordinary from 02/2019 to:
+>Extraordinary from 02/2019 to :
